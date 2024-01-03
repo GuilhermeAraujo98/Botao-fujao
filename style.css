@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=Lovers+Quarrel&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/848/259/786/4k-heart-valentines-day-love-image-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+
+.conteudo-principal{
+    width: 31.25em;
+    height: 31.25em;
+    background-color: #FCFAFC;
+    border: 1px solid #FCFAFC;
+    border-radius: 1em;
+    margin: auto;
+    text-align: center;
+    margin-top: 10em;
+    box-shadow: 1px 1px 15px 1px rgb(14, 14, 14);
+}
+
+
+.imagem {
+    width: 50%;
+    margin-bottom: 2em;
+}
+
+.titulo-conteudo{
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 5em;
+}
+
+.texto-conteudo {
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 3em;
+}
+
+.sim{
+    height: 2.5em ;
+    width:  3.75em ;
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    border-radius: 0.5em;
+    margin-left: -3.2em;
+}
+
+#nao{
+    height: 2.5em ;
+    width:  3.75em ;
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    border-radius: 0.5em;
+    position: absolute;
+    margin-left: 2em;
+}
+
